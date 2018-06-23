@@ -2,6 +2,13 @@
 
 It is a demo project for demonstrating what can be generated with [QuickAdminPanel](https://quickadminpanel.com) tool.
 
+## Clickable live-demo
+
+[demo-laramapper.quickadminpanel.com](http://demo-laramapper.quickadminpanel.com)
+
+- __Email__: admin@admin.com
+- __Pass__: password
+
 ![Laramapper screenshot](http://webcoderpro.com/laramapper-front.png)
 
 ![Laramapper backend](http://webcoderpro.com/laramapper-back.png)
