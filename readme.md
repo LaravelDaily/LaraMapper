@@ -9,9 +9,9 @@ It is a demo project for demonstrating what can be generated with [QuickAdminPan
 - __Email__: admin@admin.com
 - __Pass__: password
 
-![Laramapper screenshot](http://webcoderpro.com/laramapper-front.png)
+![Laramapper screenshot](https://quickadminpanel.com/assets/pages/demos/demo-laramapper-01.png)
 
-![Laramapper backend](http://webcoderpro.com/laramapper-back.png)
+![Laramapper backend](https://quickadminpanel.com/assets/pages/demos/demo-laramapper-02.png)
 
 ## How to use
 
